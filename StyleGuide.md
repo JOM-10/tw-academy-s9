@@ -1,3 +1,1 @@
 # Sample Style Guide
-
-Test
